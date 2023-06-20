@@ -1,6 +1,11 @@
 # PYTORCH_STUDY_EXEMPLE
 Repositório com códigos relacionado a estudos com Pytorch
 
+- Entendimento  dos elementos que compõem uma Rede Neural tradicional
+- Teste com o framework PyTorch para Deep Learning
+- Implementação de operações com a estrutura de dados Tensor
+- Exemplos do funcionamento e as limitações de um Perceptron
+- Implementação de uma arquitetura de Rede Neural com múltiplas camadas de Perceptron
 # **Matheus Henrique Juvencio**
 *** 
 #### Email: matheusjuvencio.contact@gmail.com
