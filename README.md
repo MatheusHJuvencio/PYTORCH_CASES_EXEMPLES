@@ -1,5 +1,5 @@
 # PYTORCH_STUDY_EXEMPLE
-Repositório com códigos relacionado a estudos com Pytorch
+Repositório com códigos relacionado a estudos de casos com Pytorch
 
 - Entendimento  dos elementos que compõem uma Rede Neural tradicional
 - Teste com o framework PyTorch para Deep Learning
